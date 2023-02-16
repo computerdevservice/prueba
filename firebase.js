@@ -16,7 +16,13 @@ import {
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  // Put you credentials here
+  apiKey: "AIzaSyCldZAozuK0nHWBx0SsfLN-xiOD_r1WADI",
+  authDomain: "prueba-app-web-server.firebaseapp.com",
+  databaseURL: "https://prueba-app-web-server-default-rtdb.firebaseio.com",
+  projectId: "prueba-app-web-server",
+  storageBucket: "prueba-app-web-server.appspot.com",
+  messagingSenderId: "106595098298",
+  appId: "1:106595098298:web:6c91b426359d733e39ec83"
 };
 
 // Initialize Firebase
